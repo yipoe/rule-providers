@@ -11,8 +11,8 @@ let bodyList = {
   }
 }
 let ids = {
-  '8': 'RRA2v2Lh5mtxYnC4j6VHrjoaDz7crQK',
-  '9': 'RRA2v2Lh5mtxYnC4j6VHrjoaDz7crQK',
+  '8': 'RRA4TaJjMkzXU1xEJbbtPXFXCDTajxg',
+  '9': 'RRA4TaJjMkzXU1xEJbbtPXFXCDTajxg',
   '10': 'RRA2v2Lh5mtxYnC4j6VHrjoaDz7crQK',
   '11': 'RRA2v2Lh5mtxYnC4j6VHrjoaDz7crQK',
   '12': 'RRA2v2Lh5mtxYnC4j6VHrjoaDz7crQK',
@@ -22,11 +22,11 @@ let ids = {
   '16': 'RRA2v2Lh5mtxYnC4j6VHrjoaDz7crQK',
   '17': 'RRA2v2Lh5mtxYnC4j6VHrjoaDz7crQK',
   '18': 'RRA2v2Lh5mtxYnC4j6VHrjoaDz7crQK',
-  '19': 'RRA2v2Lh5mtxYnC4j6VHrjoaDz7crQK',
-  '20': 'RRA2v2Lh5mtxYnC4j6VHrjoaDz7crQK',
-  '21': 'RRA2v2Lh5mtxYnC4j6VHrjoaDz7crQK',
-  '22': 'RRA2v2Lh5mtxYnC4j6VHrjoaDz7crQK',
-  '23': 'RRA2v2Lh5mtxYnC4j6VHrjoaDz7crQK'
+  '19': 'RRA4TaJjMkzXU1xEJbbtPXFXCDTajxg',
+  '20': 'RRA4TaJjMkzXU1xEJbbtPXFXCDTajxg',
+  '21': 'RRA4TaJjMkzXU1xEJbbtPXFXCDTajxg',
+  '22': 'RRA4TaJjMkzXU1xEJbbtPXFXCDTajxg',
+  '23': 'RRA4TaJjMkzXU1xEJbbtPXFXCDTajxg'
 }
 const notify = $.isNode() ? require('./sendNotify') : '';
 //Node.js用户请在jdCookie.js处填写京东ck;
